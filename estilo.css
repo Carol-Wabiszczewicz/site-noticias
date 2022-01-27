@@ -4,7 +4,7 @@
 }
 
 body {
-	background: #fff url(../imagens/fundo.png) repeat-x;
+	background: #fff url(fundo.png) repeat-x;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 1em;
 
@@ -19,7 +19,7 @@ body {
 
 #topo {
 	height: 150px;
-	background: url(../imagens/detalhe-topo.png) no-repeat right top;
+	background: url(detalhe-topo.png) no-repeat right top;
 	padding-top: 25px ;
 	
 }
@@ -27,7 +27,7 @@ body {
 .logo {
 	width: 152px;
 	height: 66px;
-	background: url(../imagens/logo.png) no-repeat left top;
+	background: url(logo.png) no-repeat left top;
 	text-indent: -3000px;
 }
 
@@ -57,7 +57,7 @@ ul {
 	line-height: 2.1em;
 	text-decoration: none;
 	color: #fff;
-	background: url(../imagens/divisor.png) no-repeat left center;
+	background: url(divisor.png) no-repeat left center;
 }
 
 #topo ul .primeiro a {
@@ -130,7 +130,7 @@ body.fotos #navegacao a#fotos {
 .caixa {
 	margin: 10px 0;
 	padding: 5px;
-	background: #f3f3f3 url(../imagens/fundo-caixa.png);
+	background: #f3f3f3 url(fundo-caixa.png);
 }
 
 h2 { 
@@ -161,7 +161,7 @@ h2 {
 
 #lateral ul a:hover {
 	color: #a1a1a1;
-	background: #f9f9f9 url(../imagens/marcador.png) no-repeat left center;
+	background: #f9f9f9 url(marcador.png) no-repeat left center;
 	padding-left: 20px;
 }
 
